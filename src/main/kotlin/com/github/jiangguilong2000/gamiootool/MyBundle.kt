@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.jiangguilong2000.gamiootool
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
